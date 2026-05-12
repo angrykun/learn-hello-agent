@@ -1,3 +1,53 @@
 {
-  "reviews": []
+  "reviews": [
+    {
+      "concept": "智能体定义",
+      "added_at": "2026-05-12",
+      "next_review": "2026-05-13",
+      "interval": "1d",
+      "completed_count": 0
+    },
+    {
+      "concept": "感知-行动闭环",
+      "added_at": "2026-05-12",
+      "next_review": "2026-05-13",
+      "interval": "1d",
+      "completed_count": 0
+    },
+    {
+      "concept": "传统范式演进",
+      "added_at": "2026-05-12",
+      "next_review": "2026-05-15",
+      "interval": "3d",
+      "completed_count": 0
+    },
+    {
+      "concept": "LLM智能体本质",
+      "added_at": "2026-05-12",
+      "next_review": "2026-05-15",
+      "interval": "3d",
+      "completed_count": 0
+    },
+    {
+      "concept": "Function Calling机制",
+      "added_at": "2026-05-12",
+      "next_review": "2026-05-19",
+      "interval": "7d",
+      "completed_count": 0
+    },
+    {
+      "concept": "requires_action含义",
+      "added_at": "2026-05-12",
+      "next_review": "2026-05-19",
+      "interval": "7d",
+      "completed_count": 0
+    },
+    {
+      "concept": "LLM三大能力边界",
+      "added_at": "2026-05-12",
+      "next_review": "2026-05-26",
+      "interval": "14d",
+      "completed_count": 0
+    }
+  ]
 }
